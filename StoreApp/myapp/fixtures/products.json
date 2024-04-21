@@ -1,0 +1,29 @@
+[
+    {
+        "model": "myapp.product",
+        "pk": 1,
+        "fields": {
+            "name" : "Shoes",
+            "price" : "50.00",
+            "description": "Used outside of your house to walk"
+        }
+      },
+      {
+        "model": "myapp.product",
+        "pk": 2,
+        "fields": {
+            "name" : "Food",
+            "price" : "5.00",
+            "description": "Used to cure hunger"
+        }
+      },
+      {
+        "model": "myapp.product",
+        "pk": 3,
+        "fields": {
+            "name" : "Drink",
+            "price" : "1.00",
+            "description": "Used to cure thirst"
+        }
+      }
+]
